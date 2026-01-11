@@ -1,0 +1,129 @@
+#EXTM3U
+
+## MUSIC
+
+#EXTINF:-1,95bFM Auckland, New Zealand
+https://ssl.geckohost.nz/proxy/caitlinssl?mp=/stream
+#EXTINF:-1,KCRW 89.9FM Music Stream Santa Monica, CA
+http://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
+#EXTINF:-1,KEXP 90.3FM Seattle, Washington
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3
+#EXTINF:-1,WFMU 91.1FM Jersey City, New Jersey
+http://stream0.wfmu.org/freeform-128k.mp3
+#EXTINF:-1,KCFR 102.3FM Open - Air Denver,Colorado
+http://stream2.cprnetwork.org:8000/cpr3_aac
+#EXTINF:-1,Radio Free Brooklyn
+http://patmos.cdnstream.com:9300/listen?esPlayer&cb=225961.mp3
+#EXTINF:-1,KBCS 91.3FM Bellevue, Washington
+http://www.ophanim.net:7720/stream
+#EXTINF:-1,KUSF 90.3FM San Francisco,CA
+http://104.236.145.45:8000/stream
+#EXTINF:-1,KUTX 98.9 Austin, Texas
+https://kut2.streamguys1.com/kut2
+#EXTINF:-1,KXRY Portland, Oregon
+http://listen.xray.fm:8000/stream
+#EXTINF:-1,NTS Radio London, England
+https://stream-relay-geo.ntslive.net/stream2
+#EXTINF:-1,Radio K (KUOM) : Real College Radio  Minneapolis, Minnesota
+http://128.101.73.38:8256/;
+#EXTINF:-1,Triple J 105.7FM Sydney, Australia
+https://abcradiolivehls-lh.akamaihd.net/i/triplejnsw_1@327300/index_64_a-p.m3u8
+#EXTINF:-1,KCSN 88.5 FM California State University, Northridge
+http://130.166.82.184:8000/;
+#EXTINF:-1,Soul SomaFM
+http://ice4.somafm.com/7soul-128-aac
+#EXTINF:-1,BBC Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1,BBC Radio 1xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1,BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1,BBC Radio 6
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1,CBC Radio One
+http://sc1.yxx.llnw.net:80/stream/cbcmp3_cbc_r1_tor
+
+
+## JAZZ
+
+#EXTINF:-1,KJAZZ 88.1FM Long Beach,CA
+http://1.ice1.firststreaming.com/kkjz_fm.aac
+#EXTINF:-1,KUVO JAZZ 89.3FM Denver, Colorado
+https://kuvo-ice.streamguys1.com/kuvo-aac-128
+#EXTINF:-1,WWOZ 90.7FM New Orleans, Louisiana
+https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
+#EXTINF:-1,WPSU 3 91.5FM JAZZ Penn State
+http://wpsu-ice.streamguys1.com:80/wpsu3-nopreroll
+#EXTINF:-1,WKMU JAZZ St.Louis,MO
+http://75.102.43.195:80/jazz-128
+
+## CLASSICAL
+
+#EXTINF:-1,BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1,CINEMIX Toronto, Canada
+http://158.69.38.195:20082
+#EXTINF:-1,CMBF Radio Musical Nacional Cuba
+https://icecast.teveo.icrt.cu/Nbtz7HT3
+#EXTINF:-1,KCFR 88.1FM Classical - Denver,Colorado
+http://stream2.cprnetwork.org:8000/cpr2_aac
+#EXTINF:-1,WQXR 105.9FM Classical Newark, New Jersey
+https://stream.wqxr.org/wqxr-web
+#EXTINF:-1,KUSC 91.5FM Los Angeles, California
+https://16613.live.streamtheworld.com/KUSCAAC96.aac
+#EXTINF:-1,WKMU Classical St.Louis,MO
+http://75.102.43.196:80/kwmu3
+
+## TALK RADIO
+
+#EXTINF:-1,KQED 88.5FM San Francisco, CA
+https://streams.kqed.org/kqedradio
+#EXTINF:-1,BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1,KCFR 90.1FM News - Denver,Colorado
+http://stream2.cprnetwork.org:8000/cpr1_aac
+#EXTINF:-1,KCRW World News Santa Monica, CA
+http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio
+#EXTINF:-1,KCRW Simulcast Santa Monica, CA
+http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio
+#EXTINF:-1,PRI Minneapolis, Minnesota
+https://stream.pri.org/pri1
+#EXTINF:-1,WAMC 90.3FM Albany, New York
+https://16823.live.streamtheworld.com/WAMCFMAAC.aac
+#EXTINF:-1,KUNM 89.9FM Albuquerque, New Mexico
+https://18543.live.streamtheworld.com/KUNMFM_128.mp3
+#EXTINF:-1,WNYC 93.9 FM New York City
+http://fm939.wnyc.org/wnycfm.aac
+#EXTINF:-1,KPCC 89.3FM Pasadena
+http://live.scpr.org/kpcclive/
+#EXTINF:-1,WPSU 1 91.5FM NPR & NEWS / CLASSICAL Penn State
+http://wpsu-ice.streamguys1.com:80/wpsu1-nopreroll
+#EXTINF:-1,WPSU 2 91.5FM PUBLIC RADIO MIX Penn State
+http://wpsu-ice.streamguys1.com:80/wpsu2-nopreroll
+#EXTINF:-1,WKMU 90.7FM NPR St.Louis,MO
+http://75.102.43.194:80/kwmu1
+#EXTINF:-1,WKMU 90.7FM NPR St.Louis,MO
+http://75.102.43.194:80/kwmu1
+#EXTINF:-1,WGBH 89.7FM Boston, Massachusetts
+http://audio.wgbh.org:8000/wgbh
+
+## WORLD
+
+#EXTINF:-1,CBN Rio de Janeiro  92.5FM
+https://stream.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
+#EXTINF:-1,Radio Cultura AM 1200
+https://tvcultura.com.br/_radio/streaming.php?radio=am
+#EXTINF:-1,Radio Cultura 103.3FM Sao Paulo, Brazil
+https://tvcultura.com.br/_radio/streaming.php?radio=fm
+#EXTINF:-1,ALPHA FM 101.7FM Sao Paulo, Brazil
+https://r11.nextdial.com.br/alphafmsp?f=1559712736N722c18f9a63830722c57145f59c4e7aa
+#EXTINF:-1,Jovem Pan 620AM Sao Paulo, Brazil
+http://14943.live.streamtheworld.com/JP_SP_AMAAC.aac
+#EXTINF:-1,NOVABRASIL 89.7FM Sao Paulo, Brazil
+http://20823.live.streamtheworld.com/NOVABRASIL_SPAAC.aac
+#EXTINF:-1,Worldwide FM
+http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
+#EXTINF:-1,P2 Sweden 96.2FM
+https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/p2musik-audio=192000.m3u8
+#EXTINF:-1,SAFM South Africa
+http://proradiocloud.antfarm.co.za/ant-lre-sabc/620e01258f5b49568546ff239ff2a32f/chunklist_w775303039.m3u8
