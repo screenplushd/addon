@@ -1,0 +1,367 @@
+<item>
+<title>[B]Akhanda 2 - Thaandavam[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DF808979D8CC3BC7C4B71E2A521842FCF74647D&dn=Akhanda+2+-+Thaandavam+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/akhanda_2_thaandavam_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Quando toda a esperança se esvaiu, Akhanda chegou. Ele salvou sua família, protegeu seu povo, eliminou os malfeitores e se isolou. Mas, anos depois, novas ameaças surgem, colocando o mundo em perigo. E enquanto o mundo arde em chamas, Akhanda retorna.</info>
+</item>
+
+<item>
+<title>[B]Fluxo[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9782996C80335825F0BD294392C65282C5DC37B8&dn=Fluxx+%282024%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/fluxx_2024/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Uma atriz de Hollywood está determinada a encontrar seu famoso marido desaparecido, apesar de não poder deixar sua casa em Malibu por vontade própria.</info>
+</item>
+
+<item>
+<title>[B]Batalha dos Comandos[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF915588B2EEC088D05495372C7E7014D7443D12&dn=Battle+of+the+Commandos+%281969%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/battle_of_the_commandos_1969/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Um coronel britânico está furioso com seus superiores depois que todo o seu pelotão é massacrado pelos alemães no que ele considerou uma missão suicida. Então, para sua próxima missão, ele leva consigo um pelotão de criminosos condenados para preparar as praias da Normandia para o desembarque do Dia D.</info>
+</item>
+
+<item>
+<title>[B]Sede[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D010F9F2D8C8AF3DC2888E7399596D4BF51787D&dn=Thirst+%282015%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Um grupo de adolescentes rebeldes em um acampamento militar na natureza precisa lutar por suas vidas contra os ataques de um alienígena impiedoso e sanguinário. Os ataques começam depois que eles descobrem uma estranha "orbe" no meio do deserto. Sem comunicação e sem ter onde se esconder, eles percebem que sua única chance de sobreviver é lutar.</info>
+</item>
+
+<item>
+<title>[B]Pryanama[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65A0CAADC65140C2431298C84E6003122AD883AE&dn=Pryanama+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/pryanama_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Em uma Manhattan alternativa, dois pesquisadores — Robert Lang e Jeff Hawthorne — são atraídos para o Projeto STARLING, uma operação secreta infiltrada no edifício Titanpointe. Quando Hawthorne quebra o protocolo e desaparece em um portal misterioso, a cidade é assolada por fenômenos inexplicáveis. Lang é forçado a navegar por uma realidade em colapso, enquanto os agentes do STARLING se tornam implacáveis ​​e as fronteiras entre as dimensões começam a se romper. À medida que as transformações se desenrolam e a cidade mergulha no caos, ambos os homens confrontam forças incompreensíveis: identidades que mudam constantemente, adversários espectrais e a crescente sensação de que algo vasto e irreversível se aproxima.</info>
+</item>
+
+<item>
+<title>[B]Kamaro2[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F9A384A8B545591C3EBDD143488B640B3ECFD92&dn=Kamaro2+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/kamaro2_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Sara, uma investigadora paranormal, vai até a infame casa de Kamarottu em busca de sua irmã desaparecida. O filme também acompanha um casal recém-casado, Aarya e Swathi, que se muda para a casa e começa a vivenciar eventos estranhos.</info>
+</item>
+
+<item>
+<title>[B]Caçadores de Fronteira[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AE5927F21D96BD6D763250EAC870A5837AC56B91&dn=Border+Hunters+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/border_hunters_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Após seu irmão policial ser morto por um traficante que foge para a proteção de seu tio ligado a um cartel no México, um americano com vasta experiência nas áreas de segurança pública e militar atravessa a fronteira em busca de vingança.</info>
+</item>
+
+<item>
+<title>[B]Castelos de Gelo[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD3301FB873AC8FB20604A6FB72C2D8846457D34&dn=Ice+Castles+%282010%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/ice_castles_2010/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>A jovem, bela e talentosa Alexis Winston surge do nada para tornar-se uma estrela da patinação artística. No entanto, sua jornada ao estrelato não é fácil. Ela tem que se superar, reinventar e o mais doloroso, deixar o namorado em sua cidade natal. Quando uma queda tráfica e deixa cega, ela precisa de alguém que acredite em seu potencial, a ame e que possa convencê-la da força que tem para patinar e sonhar novamente.</info>
+</item>
+
+<item>
+<title>[B]A Base[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FE4D58FAC98A1B7AAC19FA42379DFB8CFCA042B&dn=The+Base+%281999%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/the_base_1999/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>O major Murphy, um investigador do Exército dos EUA, recebeu uma nova missão. O sargento Gammon é suspeito de tráfico de cocaína em sua base, e Murphy precisa reunir provas suficientes para desmantelar Gammon e toda a sua operação. Junto com seu parceiro, o tenente Andrews, o major se infiltra na quadrilha para descobrir até que ponto essas atividades chegam na cadeia de comando.</info>
+</item>
+
+<item>
+<title>[B]A Noite dos Tubarões[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2CF2A7523059C2D0A75A911A460A09A0C5C663A6&dn=Night+of+the+Sharks+%281988%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/night_of_the_sharks_1988/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>David precisa lutar pela sua vida contra os gangsters que mataram seu irmão por causa de um CD com provas de suas atividades ilegais. Quando David consegue o CD, eles vão para o México, onde David vive como caçador de tubarões. Quem vai pegar David primeiro, os gangsters ou o tubarão?</info>
+</item>
+
+<item>
+<title>[B]Transformers: Cinco Faces da Escuridão[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60DEA424E9BF966C67EEB538E15366E14644E3E4&dn=Transformers%3A+Five+Faces+of+Darkness+%281986%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/transformers_five_faces_of_darkness_1986/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Após os eventos de Transformers: O Filme, os Decepticons fugiram e os Autobots saíram vitoriosos sob o comando de um novo líder, Rodimus Prime. Em meio às comemorações, os Autobots são atacados, tornando os Decepticons os principais suspeitos. Enquanto isso, os misteriosos Quintessons tentam ocultar um segredo sombrio tão antigo quanto o próprio Cybertron.</info>
+</item>
+
+<item>
+<title>[B]Amarelo[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B728708CC15FAFAAEB82B733334276B5D565C83&dn=Yellow+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/yellow_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>A decisão impulsiva de uma funcionária de escritório de abandonar seu emprego tradicional a leva a uma aventura solo transformadora, onde estranhos se tornam amigos e zonas de conforto se transformam em lembranças distantes.</info>
+</item>
+
+<item>
+<title>[B]Oscar Shaw[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79A5B3B9BB160735AB619ED432758DAE49B3B620&dn=Oscar+Shaw+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/oscar_shaw_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Após se aposentar da polícia, um detetive implacável, assombrado pela trágica perda de seu melhor amigo, embarca em uma perigosa jornada de vingança, buscando redenção e lutando para restaurar a justiça nas ruas que um dia jurou proteger.</info>
+</item>
+
+<item>
+<title>[B]Predador: Badlands[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3BE58C54784BDF7722CFF7E12915000AACCBD8C&dn=Predator%3A+Badlands+%282025%29+%5B2160p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/predator_badlands_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Expulso do seu clã, um jovem Predador encontra uma aliada improvável e embarca numa viagem traiçoeira, num planeta remoto e mortal, em busca do derradeiro adversário.</info>
+</item>
+
+<item>
+<title>[B]Stormforce[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7F719BF75933249E8126CA5427C15020A726D83&dn=Stormforce+%282006%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/stormforce_2006/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Um mergulhador militar rebelde é rebaixado para um perigoso esquadrão de busca e resgate e precisa conquistar a confiança de sua nova equipe.</info>
+</item>
+
+<item>
+<title>[B]O Tigre[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E976C347F71CE6BC5BC3B2B9F59FF7AD53DB77E1&dn=The+Tiger+%282025%29+%5B2160p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/the_tiger_2_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Conta a história de uma família de lutadores de silat que vive em uma pequena vila. Eles guardam há muito tempo o segredo de sua arte marcial estilo tigre, uma tradição transmitida de geração em geração dentro da família. No entanto, um pequeno incidente no mercado local, filmado e que viraliza, começa a revelar o silat estilo tigre, antes mantido em segredo, ao público. Esse segredo exposto chama a atenção de um forasteiro que fica obcecado pela arte marcial estilo tigre. Juntamente com seus seguidores, ele está determinado a encontrar o lutador de silat estilo tigre, com o objetivo de obter a chave para essa arte marcial lendária.</info>
+</item>
+
+<item>
+<title>[B]O Corte[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1E4881A9007840FBD2D8D7114DAEF9C724996AEE&dn=The+Cut+%282024%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/the_cut_2024/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Um boxeador aposentado pretende voltar aos ringues para uma última tentativa de conquistar o título, mas primeiro precisa bater o peso. Isolado em um quarto em Las Vegas com um treinador inescrupuloso, ele embarca em um programa intensivo e ilegal de perda de peso.</info>
+</item>
+
+<item>
+<title>[B]Vingança na Ilha Harsens[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:582833A1226F02E628BDA188E45856395BF55BD0&dn=Harsens+Island+Revenge+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/harsens_island_revenge_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Veteranos da Primeira Guerra Mundial na Ilha de Harsens enfrentam a infame "Gangue Roxa" por causa de bebidas alcoólicas ilegais na década de 1920.</info>
+</item>
+
+<item>
+<title>[B]120 Corajosos[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:391849C240B9AB51D13162E90E190B7953EEC336&dn=120+Bahadur+%282025%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/120_bahadur_2025/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Valentes soldados indianos lutam contra tropas chinesas durante a Guerra Sino-Indiana de 1962, impedindo uma possível ocupação da região de Ladakh na Batalha de Rezang La.</info>
+</item>
+
+<item>
+<title>[B]Metal Skin[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EB99E87AB6BB3B3C5AE7BDEEFB97497ABDEA9E&dn=Metal+Skin+%281994%29+%5B720p%5D+%5BYTS.LT%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce</link>
+<thumbnail>https://img.yts.lt/assets/images/movies/metal_skin_1994/medium-cover.jpg</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>Psycho Joe tem uma única paixão: carros velozes! Ao conseguir um emprego em um supermercado local, Joe conhece Dazey, outro apaixonado por carros, que rapidamente se torna seu ídolo e melhor amigo. Logo depois, Joe se apaixona por Savina, uma garota gótica que pratica magia negra. Mas Savina já está apaixonada por Dazey e fará de tudo para conquistá-lo — inclusive usar os sentimentos de Joe por ela. Em um estilo verdadeiramente shakespeariano, esse trio segue em uma corrida rumo à tragédia.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINK</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
