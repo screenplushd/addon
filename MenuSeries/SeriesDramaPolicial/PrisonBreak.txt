@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://link-da-capa.jpg" tvg-description="Descrição do filme aqui",Nome do Filme
+plugin://plugin.video.elementum/play?uri=LINK
