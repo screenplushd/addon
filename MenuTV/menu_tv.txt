@@ -1,0 +1,68 @@
+<layouttype>thumbnail</layouttype>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ESPANHA[/COLOR][/B]</name>
+<thumbnail>https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Espanha-1111x740.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/ESPANHA.M3U</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FRANCA[/COLOR][/B]</name>
+<thumbnail>https://todabandeira.com.br/wp-content/uploads/2023/08/bandeira-da-franca.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/FRAN%C3%87A.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ALEMANHA[/COLOR][/B]</name>
+<thumbnail>https://todabandeira.com.br/wp-content/uploads/2023/08/bandeira-da-alemanha.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/ALEMANHA.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]REINO UNIDO[/COLOR][/B]</name>
+<thumbnail>https://allflags.online/wp-content/uploads/2024/11/flag-united-kingdom-2-1024x769.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/REINOUNIDO.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AMERICA[/COLOR][/B]</name>
+<thumbnail>https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Estados-Unidos-1111x740.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/AMERICA.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGAL[/COLOR][/B]</name>
+<thumbnail>https://fotos.web.sapo.io/i/B461700fe/21422125_3vteV.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/PORTUGAL.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGALVIP[/COLOR][/B]</name>
+<thumbnail>https://fotos.web.sapo.io/i/B461700fe/21422125_3vteV.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/PORTUGALVIP.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMATION[/COLOR][/B]</name>
+<thumbnail>https://cdn.finshots.app/images/2025/05/CN-Comeback-FinshotsV2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/ANIMATION.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SPORTS[/COLOR][/B]</name>
+<thumbnail>https://rockytopsportsworld.com/wp-content/uploads/2019/07/sports-balls.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/canaisdopedrohd/addon/refs/heads/main/MenuTV/SPORTS.m3u</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+
+</channels>
