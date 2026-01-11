@@ -4,28 +4,28 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]CANAIS TV[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Im8nYNk.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/screenplus/addon/refs/heads/main/MenuTV/menu_tv.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuTV/menu_tv.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Im8nYNk.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/screenplus/addon/refs/heads/main/MenuFilmes/menu_filmes.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuFilmes/menu_filmes.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Im8nYNk.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/screenplus/addon/refs/heads/main/MenuSeries/menu_series.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/menu_series.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]RADIOS[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Im8nYNk.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/screenplus/addon/refs/heads/main/RADIOS.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/RADIOS.m3u8</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
