@@ -5,105 +5,105 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Ação[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/acao.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/acao.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Aventura[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/aventura.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/aventura.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Comédia[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/comedia.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/comedia.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Comédia Romântica[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/comediaromantica.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/comediaromantica.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Drama[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/drama.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/drama.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Drama Criminal[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/drama%20criminal.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/drama%20criminal.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Drama Médico[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/drama%20medico.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/drama%20medico.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Drama Policial[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/drama%20policial.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/drama%20policial.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Fantasia[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/fantasia.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/fantasia.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Ficção Científica[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/ficao%20cientifica.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/ficao%20cientifica.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Terror / Horror[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/terror.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/terror.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Mistério[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/misterio.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/misterio.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Suspense / Thriller[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/suspense.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/suspense.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Romance[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/romance.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/romance.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Guerra[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/guerra.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/guerra.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
@@ -111,7 +111,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Western[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/canaisdopedro/addon/refs/heads/main/MenuSeries/categorias/western.txt</externallink>
+<externallink>https://raw.githubusercontent.com/screenplushd/addon/refs/heads/main/MenuSeries/categorias/western.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
